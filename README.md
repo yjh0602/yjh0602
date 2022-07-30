@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Just%20Do&20It20&fontSize=90&desc=YOON%JAE%HAK)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Just%20DoIt&fontSize=90&20desc=YOON%JAE%HAK)
 
 <!--
 **yjh0602/yjh0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
