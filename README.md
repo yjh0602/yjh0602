@@ -6,4 +6,4 @@
 
 
 
-<a href="https://velog.io/@yjh0602" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=로고&logoColor=20C997"/></a>
+<a href="https://velog.io/@yjh0602" target="_blank"><img src="https://img.shields.io/badge/20C997?style=plastic&logo=Velog&logoColor=White"/></a>
