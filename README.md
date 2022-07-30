@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Just%20DoIt&fontSize=90&animation=fadeIn)
-
+<a href="https://www.youtube.com/channel/UCPdqvySTixjkvtDcyKKYQag/videos"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=YouTube&logoColor=white"/>
 <a href="https://velog.io/@yjh0602"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
   
-<a href="https://www.youtube.com/channel/UCPdqvySTixjkvtDcyKKYQag/videos"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=YouTube&logoColor=white"/>
+
 
 
 
