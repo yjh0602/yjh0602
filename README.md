@@ -2,7 +2,8 @@
 
 <a href="https://velog.io/@yjh0602"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
   
-<a href="https://www.youtube.com/channel/UCPdqvySTixjkvtDcyKKYQag"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<a href="https://www.youtube.com/channel/UCPdqvySTixjkvtDcyKKYQag">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
 
