@@ -4,7 +4,7 @@
 
 
 
-<a href="https://velog.io/@yjh0602"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>      <a href="https://www.notion.so/Random-Rune-Defense-6df964347c4f4c1b90171c2ae7c3ae25"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <a href="https://www.youtube.com/channel/UCPdqvySTixjkvtDcyKKYQag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube Studio&logoColor=white"/>
+<a href="https://velog.io/@yjh0602"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>      <a href="https://imminent-marjoram-c48.notion.site/Random-Rune-Defense-6df964347c4f4c1b90171c2ae7c3ae25"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <a href="https://www.youtube.com/channel/UCPdqvySTixjkvtDcyKKYQag/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube Studio&logoColor=white"/>
 
 
 
