@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=100&section=header&text=Just%20DoIt&fontSize=90&animation=fadeIn)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjh0602)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjh0602&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
