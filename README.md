@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjh0602)](https://github.com/anuraghazra/github-readme-stats)
 
 
-🔨 사이트 이동 🔨
+                                                                 🔨 사이트 이동 🔨
 
 <a href="https://velog.io/@yjh0602"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>      <a href="https://www.notion.so/Random-Rune-Defense-6df964347c4f4c1b90171c2ae7c3ae25"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
